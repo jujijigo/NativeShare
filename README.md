@@ -1,3 +1,16 @@
+### 开发
+安装依赖
+```bash
+yarn
+```
+
+打包
+```bash
+yarn webpack
+```
+
+
+-----------------------------------------------------
 原文地址 [https://github.com/fa-ge/NativeShare/blob/master/README.md](https://github.com/fa-ge/NativeShare/blob/master/README.md)
 
 ### 起因
